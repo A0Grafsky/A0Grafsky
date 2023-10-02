@@ -9,11 +9,28 @@ You lot, hello! I’m a beginner programmer, who is ready to learn and comprehen
 *   🌍  I'm based in Russia
 *   🧠  I'm learning Aiogram
 
-### Skills 
+### 💻 Skills:
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                     </p>
+
+
+
+
                     
+### 🛠 Tools:
 
-                 
+<div>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+</div>
 
+
+### ⚙️ GitHub statistics:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=A0Grafsky&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+  </tr>
+</table>
