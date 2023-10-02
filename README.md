@@ -17,8 +17,3 @@ You lot, hello! I’m a beginner programmer, who is ready to learn and comprehen
 
                  
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/A0Grafsky "><img src="https://github-readme-streak-stats.herokuapp.com/?user=A0Grafsky &stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
